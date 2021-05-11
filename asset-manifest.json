@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/safe-seal-web/static/js/main.e5eb5626.chunk.js",
-    "main.js.map": "/safe-seal-web/static/js/main.e5eb5626.chunk.js.map",
-    "runtime-main.js": "/safe-seal-web/static/js/runtime-main.34a4b9ea.js",
-    "runtime-main.js.map": "/safe-seal-web/static/js/runtime-main.34a4b9ea.js.map",
-    "static/js/2.039a12e4.chunk.js": "/safe-seal-web/static/js/2.039a12e4.chunk.js",
-    "static/js/2.039a12e4.chunk.js.map": "/safe-seal-web/static/js/2.039a12e4.chunk.js.map",
-    "static/js/3.2a9ccea3.chunk.js": "/safe-seal-web/static/js/3.2a9ccea3.chunk.js",
-    "static/js/3.2a9ccea3.chunk.js.map": "/safe-seal-web/static/js/3.2a9ccea3.chunk.js.map",
+    "main.js": "/safe-seal-web/static/js/main.db105a04.chunk.js",
+    "main.js.map": "/safe-seal-web/static/js/main.db105a04.chunk.js.map",
+    "runtime-main.js": "/safe-seal-web/static/js/runtime-main.3cb62f77.js",
+    "runtime-main.js.map": "/safe-seal-web/static/js/runtime-main.3cb62f77.js.map",
+    "static/js/2.af0ec925.chunk.js": "/safe-seal-web/static/js/2.af0ec925.chunk.js",
+    "static/js/2.af0ec925.chunk.js.map": "/safe-seal-web/static/js/2.af0ec925.chunk.js.map",
+    "static/js/3.3559f39a.chunk.js": "/safe-seal-web/static/js/3.3559f39a.chunk.js",
+    "static/js/3.3559f39a.chunk.js.map": "/safe-seal-web/static/js/3.3559f39a.chunk.js.map",
     "index.html": "/safe-seal-web/index.html",
-    "static/js/2.039a12e4.chunk.js.LICENSE.txt": "/safe-seal-web/static/js/2.039a12e4.chunk.js.LICENSE.txt",
+    "static/js/2.af0ec925.chunk.js.LICENSE.txt": "/safe-seal-web/static/js/2.af0ec925.chunk.js.LICENSE.txt",
     "static/media/seal.6857f4f0.png": "/safe-seal-web/static/media/seal.6857f4f0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.34a4b9ea.js",
-    "static/js/2.039a12e4.chunk.js",
-    "static/js/main.e5eb5626.chunk.js"
+    "static/js/runtime-main.3cb62f77.js",
+    "static/js/2.af0ec925.chunk.js",
+    "static/js/main.db105a04.chunk.js"
   ]
 }
