@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.98395340.chunk.js",
-    "main.js.map": "/static/js/main.98395340.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.abc3de8f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.abc3de8f.js.map",
-    "static/js/2.56ce5162.chunk.js": "/static/js/2.56ce5162.chunk.js",
-    "static/js/2.56ce5162.chunk.js.map": "/static/js/2.56ce5162.chunk.js.map",
-    "static/js/3.2763cf47.chunk.js": "/static/js/3.2763cf47.chunk.js",
-    "static/js/3.2763cf47.chunk.js.map": "/static/js/3.2763cf47.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.56ce5162.chunk.js.LICENSE.txt": "/static/js/2.56ce5162.chunk.js.LICENSE.txt",
-    "static/media/seal-hero.3296b259.jpg": "/static/media/seal-hero.3296b259.jpg",
-    "static/media/sealapproval.67b0cd6a.jpg": "/static/media/sealapproval.67b0cd6a.jpg",
-    "static/media/seals-swimming.c3ce53e6.png": "/static/media/seals-swimming.c3ce53e6.png",
-    "static/media/two-cute-seals.c74475ba.jpg": "/static/media/two-cute-seals.c74475ba.jpg"
+    "main.js": "/safe-seal-web/static/js/main.98395340.chunk.js",
+    "main.js.map": "/safe-seal-web/static/js/main.98395340.chunk.js.map",
+    "runtime-main.js": "/safe-seal-web/static/js/runtime-main.6b3362f4.js",
+    "runtime-main.js.map": "/safe-seal-web/static/js/runtime-main.6b3362f4.js.map",
+    "static/js/2.56ce5162.chunk.js": "/safe-seal-web/static/js/2.56ce5162.chunk.js",
+    "static/js/2.56ce5162.chunk.js.map": "/safe-seal-web/static/js/2.56ce5162.chunk.js.map",
+    "static/js/3.2763cf47.chunk.js": "/safe-seal-web/static/js/3.2763cf47.chunk.js",
+    "static/js/3.2763cf47.chunk.js.map": "/safe-seal-web/static/js/3.2763cf47.chunk.js.map",
+    "index.html": "/safe-seal-web/index.html",
+    "static/js/2.56ce5162.chunk.js.LICENSE.txt": "/safe-seal-web/static/js/2.56ce5162.chunk.js.LICENSE.txt",
+    "static/media/seal-hero.3296b259.jpg": "/safe-seal-web/static/media/seal-hero.3296b259.jpg",
+    "static/media/sealapproval.67b0cd6a.jpg": "/safe-seal-web/static/media/sealapproval.67b0cd6a.jpg",
+    "static/media/seals-swimming.c3ce53e6.png": "/safe-seal-web/static/media/seals-swimming.c3ce53e6.png",
+    "static/media/two-cute-seals.c74475ba.jpg": "/safe-seal-web/static/media/two-cute-seals.c74475ba.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.abc3de8f.js",
+    "static/js/runtime-main.6b3362f4.js",
     "static/js/2.56ce5162.chunk.js",
     "static/js/main.98395340.chunk.js"
   ]
